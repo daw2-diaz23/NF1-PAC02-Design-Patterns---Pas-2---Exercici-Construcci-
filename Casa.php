@@ -124,7 +124,7 @@ $Habitacion->add($p2);
 $Habitacion->add($p3);
 $Habitacion->add($p4);
 $Habitacion->add($p5);
-
+$Habitacion->add($p6);
 
 
 
